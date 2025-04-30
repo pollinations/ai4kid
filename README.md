@@ -4,6 +4,16 @@ Welcome to the ai4kid wiki!本项目整理少儿人工智能编程资源，方�
 
 本项目由 <a href="http://www.codelab.club/">CodeLab</a> 维护。
 
+## 🆕 Pollinations.AI 免费生成式人工智能工具 (New!)
+
+### English 🇬🇧
+- [Pollinations.AI Integration Guide](./PollinationsAI-Integration-Guide.md): Learn how to use free, privacy-first AI to generate images, text, and audio for your projects—no signup or API key needed!
+- [Pollinations.AI Image Generation Demo (Jupyter Notebook)](./PollinationsAI-Image-Demo.ipynb): Hands-on demo for teachers and kids.
+
+### 中文 🇨🇳
+- [Pollinations.AI 集成指南](./PollinationsAI-Integration-Guide.md): 免费、隐私优先的 AI 平台，无需注册或 API 密钥，轻松生成图片、文本和音频，适合学生和老师。
+- [Pollinations.AI 图片生成演示 (Jupyter Notebook)](./PollinationsAI-Image-Demo.ipynb): 适合课堂和项目实践的动手演示。
+
 ### 概念
 <a href="https://en.wikipedia.org/wiki/Computational_thinking">计算思维</a>
 
@@ -164,6 +174,3 @@ OpenBCI代表开源脑机接口（BCI）。我们为任何人提供一台计算�
 * 编程玩具车Sphero Indi，时代周刊评委2021年度「100个发明」。 https://sphero.com/pages/sphero-indi
 * Intelino 英荔诺智能小火车 https://www.intelino.cn/
 * https://learningmusic.ableton.com/zh-Hans/ 音乐创作之旅
-
-
-
