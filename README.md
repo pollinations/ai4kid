@@ -1,18 +1,6 @@
-<img src="https://github.com/eduStack/ai4kid/blob/master/ai4kid-logo.png" width="200px">
-
-Welcome to the ai4kid wiki!本项目整理少儿人工智能编程资源，方便教育者使用。
+本项目整理少儿人工智能编程资源，方便教育者使用。
 
 本项目由 <a href="http://www.codelab.club/">CodeLab</a> 维护。
-
-## 🆕 Pollinations.AI 免费生成式人工智能工具 (New!)
-
-### English 🇬🇧
-- [Pollinations.AI Integration Guide](./PollinationsAI-Integration-Guide.md): Learn how to use free, privacy-first AI to generate images, text, and audio for your projects—no signup or API key needed!
-- [Pollinations.AI Image Generation Demo (Jupyter Notebook)](./PollinationsAI-Image-Demo.ipynb): Hands-on demo for teachers and kids.
-
-### 中文 🇨🇳
-- [Pollinations.AI 集成指南](./PollinationsAI-Integration-Guide.md): 免费、隐私优先的 AI 平台，无需注册或 API 密钥，轻松生成图片、文本和音频，适合学生和老师。
-- [Pollinations.AI 图片生成演示 (Jupyter Notebook)](./PollinationsAI-Image-Demo.ipynb): 适合课堂和项目实践的动手演示。
 
 ### 概念
 <a href="https://en.wikipedia.org/wiki/Computational_thinking">计算思维</a>
@@ -33,6 +21,7 @@ Welcome to the ai4kid wiki!本项目整理少儿人工智能编程资源，方�
 
 * [Claude Prompt engineering overview](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
 
+* [Pollinations.AI](https://pollinations.ai) - 免费、无需注册的生成式AI平台，支持图像、文本和音频生成。[集成指南](./PollinationsAI-Integration-Guide.md) | [图像生成演示](./PollinationsAI-Image-Demo.ipynb)
 
 ### 组织和社区
 
